@@ -14,8 +14,8 @@
 
 <div style= 'display: inline_block'><br/>
     <img alt='Power Bi' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black'>
-    <img alt='React' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=react&logoColor=black'>
-    <img alt='Nextjs' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=nextjs&logoColor=black'>
+    <img alt='React' src='https://img.shields.io/badge/react-F2C811?style=for-the-badge&logo=react&logoColor=black'>
+    <img alt='Nextjs' src='https://img.shields.io/badge/next_js-F2C811?style=for-the-badge&logo=nextjs&logoColor=black'>
     <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
     <img alt='Pandas' src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white'>
     <img alt='Numpy' src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'>
