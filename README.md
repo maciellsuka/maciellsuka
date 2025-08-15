@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=24D764&random=false&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Lucas+Maciel;Sou+desenvolvedor%2C+e+trabalho+com+Python+e+Javascript;Curso+o+nono+semestre+de+Engenharia+de+Computa%C3%A7%C3%A3o;Caso+queira+entrar+em+contato+comigo%2C+%C3%A9+s%C3%B3+me+chamar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&duration=6000&pause=1000&color=367D41&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas+Maciel;Sou+formado+em+Engenharia+da+Computa%C3%A7%C3%A3o;Trabalho+com+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 ##
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mac-mar/)
